@@ -22,7 +22,7 @@ export function WhatItIs() {
         </div>
         <div>
           <p className="text-pretty leading-relaxed text-muted-foreground">
-            The Metasploitable Hacking Lab is a practice environment that uses an intentionally
+            The Metasploitable Penetration Testing Lab is a practice environment that uses an intentionally
             vulnerable virtual machine as a target for learning:
           </p>
           <ul className="mt-6 flex flex-wrap gap-2">

@@ -7,7 +7,7 @@ const geistSans = Geist({ subsets: ['latin'], variable: '--font-geist-sans' })
 const geistMono = Geist_Mono({ subsets: ['latin'], variable: '--font-geist-mono' })
 
 export const metadata: Metadata = {
-  title: 'Metasploitable Hacking Lab | Brandy M Timms',
+  title: 'Metasploitable Penetration Testing Lab | Brandy M Timms',
   description:
     'A practice environment that uses an intentionally vulnerable virtual machine as a target for learning penetration testing, ethical hacking, and cybersecurity.',
   generator: 'v0.app',

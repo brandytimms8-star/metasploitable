@@ -4,7 +4,7 @@ export function Hero() {
       <div className="mx-auto max-w-5xl px-6 py-20 md:py-28">
         <p className="font-mono text-sm text-primary">{'> ./project --info'}</p>
         <h1 className="mt-4 max-w-3xl text-balance text-4xl font-bold tracking-tight md:text-6xl">
-          Hacking Lab using <span className="text-primary">Metasploitable</span>
+          Penetration Testing Lab using <span className="text-primary">Metasploitable</span>
         </h1>
         <p className="mt-6 max-w-2xl text-pretty text-lg leading-relaxed text-muted-foreground">
           A practice environment that uses an intentionally vulnerable virtual machine as a target

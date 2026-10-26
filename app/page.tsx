@@ -14,7 +14,7 @@ export default function Page() {
       </main>
       <footer className="border-t">
         <div className="mx-auto max-w-5xl px-6 py-8 text-sm text-muted-foreground">
-          Metasploitable Hacking Lab &middot; Brandy M Timms
+          Metasploitable Penetration Testing Lab &middot; Brandy M Timms
         </div>
       </footer>
     </>
