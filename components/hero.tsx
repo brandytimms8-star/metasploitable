@@ -6,6 +6,7 @@ export function Hero() {
         <h1 className="mt-4 max-w-3xl text-balance text-4xl font-bold tracking-tight md:text-6xl">
           Penetration Testing Lab using <span className="text-primary">Metasploitable</span>
         </h1>
+        <p className="mt-4 font-mono text-base font-medium text-primary md:text-lg">Now on GitHub</p>
         <p className="mt-6 max-w-2xl text-pretty text-lg leading-relaxed text-muted-foreground">
           A practice environment that uses an intentionally vulnerable virtual machine as a target
           for learning penetration testing, ethical hacking, and cybersecurity.
